@@ -1,0 +1,8 @@
+{
+	"sp_cli_path": ".../ton-build/storage/storage-daemon/storage-daemon-cli",
+	"sp_cli_port": 5555,
+	"storage_db_path": ".../ton-build/storage-db",
+	"port": 33215,
+	"contract_address": "",
+	"has_gateway": true
+}
